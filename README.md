@@ -1,8 +1,9 @@
 # Introduction
 
-This project is an example of how a call center company can use the data to look at the agent's activity and an account's condition.
+This is a project on how a call center company can look at an agent's activity and an account's condition.
 
-There are 2 companies for this project. ABC Company and DFE Company.
+There are 2 companies for this project. 
+ABC Company and DFE Company.
 All the reports end in 8/14/2023.
 
 Copying the raw data values and pasting them in the appropriate report, keeps it up to date.
