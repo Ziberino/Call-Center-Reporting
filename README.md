@@ -31,5 +31,5 @@ This folder contains the break schedules of the agents and the employee table/da
 
 # Final Notes
 
-In the future, I will try to automate everything and use SQL, since excel uses a ton of space compared to querying and importing it in SQL.
+In the future, I will try to automate everything and use SQL, since Excel uses a ton of space compared to querying and importing it in SQL.
 
